@@ -36,7 +36,7 @@ After installing the project, you can navigate to the `index.html` file in your 
 
 ### Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](screenshot1.png)
 *The index.html will land you on this page and you are free to browse!*
 
 
